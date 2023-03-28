@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vue.js && Typescript && GO**
 
-- 👨‍💻 All of my projects are available at [[CV-Netlify](https://cirobianchimani-cv.netlify.app/)target="blank"]
+- 👨‍💻 All of my projects are available at [[CV-Netlify](https://cirobianchimani-cv.netlify.app/)]
 
 - 💬 Ask me about **HTML, CSS, javascript.**
 
