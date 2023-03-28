@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Vue.js && Typescript && GO**
 
-- 👨‍💻 All of my projects are available at [[Netlify](https://cirobianchimani-cv.netlify.app/)]
+- 👨‍💻 All of my projects are available at [[CV-Netlify](https://cirobianchimani-cv.netlify.app/)]
 
 - 💬 Ask me about **HTML, CSS, javascript.**
 
 - 📫 How to reach me **bianchimaniciroe@gmail.com**
 
-- 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/cirobianchimani/)]]
+- 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/cirobianchimani/)
 
 - ⚡ Fun fact **Even though I work as a developer, and a personal trainer, i'm actually a magician 😮**
 
