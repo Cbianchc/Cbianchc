@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bianchimaniciroe@gmail.com**
 
-- 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/cirobianchimani/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/cirobianchimani/)
 
 - ⚡ Fun fact **Even though I work as a developer, and a personal trainer, i'm actually a magician 😮**
 
