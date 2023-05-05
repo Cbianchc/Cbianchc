@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ciro Bianchimani</h1>
 <h3 align="center">Frontend Developer from Argentina</h3>
 
-
-
-
-
-
 - 🔭 I’m currently working on **A personal training app with interactive games**
 
 - 🌱 I’m currently learning **Vue.js && Typescript**
@@ -31,9 +26,7 @@ const ciroBianchimani = {
 }
 ```
 
-<p align="left"> 
-
-</p>
+<p align="left"> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
