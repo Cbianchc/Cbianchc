@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **A personal training app with interactive games**
 
-- 🌱 I’m currently learning **Vue.js && Typescript**
+- 🌱 I’m currently learning **PHP**
 
 - 👨‍💻 All of my projects are available at [PORTFOLIO CV](https://cirobianchimani-cv.netlify.app/)
 
