@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PHP**
 
-- 👨‍💻 All of my projects are available at [PORTFOLIO CV]([https://cirobianchimanicv.netlify.app/])
+- 👨‍💻 All of my projects are available at [PORTFOLIO CV](https://cirobianchimanicv.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS, javascript.**
 
