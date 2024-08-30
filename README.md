@@ -19,7 +19,7 @@
 
 ``` js
 const ciroBianchimani = {
-  pronouns: "hi" | "him",
+  pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS],
   tools: ["React", "Node", "Express", "Next.js"],
   learning: true
