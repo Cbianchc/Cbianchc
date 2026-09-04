@@ -34,3 +34,4 @@ const ciroBianchimani = {
   basesDeDatos: ["PostgreSQL", "MySQL", "Firestore", "SQLite"],
   arquitectura: ["SaaS", "APIs RESTful", "Docker", "Microservicios"]
 };
+```
